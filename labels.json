@@ -1,0 +1,11 @@
+
+{
+    "detection_threshold": 0.5,
+    "max_boxes":1,
+    "labels": [
+      "unlabeled",
+      "blocked_barcode",
+      "have_barcode"
+	
+    ]
+}
